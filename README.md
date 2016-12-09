@@ -14,20 +14,28 @@ PHP and Laravel Knowledge
 ### Installing
 
 1.) Download the zip and extract it to a directory or Clone the repository to a directory.
-2.)Inside root directory, give the database details in the .env file
+2.)Create a databse and give the credentials to 
 
-Run the following commands from the termial in the root directory
+3.) Run the following commands from the terminal in the root directory.
 
+Composer modules initializations
+```
+composer install
+composer update
+```
+
+Submodule's initializations
+```
+git submodule init
+git submodule update
+git submodule foreach git pull origin master
+```
+
+Migrations and Seeders initializations
 ```
 php artisan vendor:publish 
 php artisan migrate
 composer dumpautoload -o
-```
-
-You can update the submodules by using this command
-
-```
-git submodule foreach git pull origin master
 ```
 
 Video tutorial for installing Laflux platform: [Click here](https://www.youtube.com/watch?v=nf7X-mTjHTs)
