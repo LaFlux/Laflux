@@ -5,7 +5,7 @@ Laflux is a Hybrid Platform built with Laravel 5.3.
 ## Getting Started
 
 Laflux can be used to develope small websites to large enterprise applications.
-Laflux provides a basic platform for ERP, CRM, CMS or Ecommerce applications. You can easily customize the platform for your own needs. Comparing to other Laravel based frameworsk, it's a greate advantage. Unlike other, this platform can be upgraded to latest version of Laravel, whenever there is a new update.Click here for the [Demo](http://demo.laflux.com/admin/dashboard). Default Username : demo@laflux.com, Password : 123456.
+Laflux provides a basic platform for ERP, CRM, CMS or Ecommerce applications. You can easily customize the platform for your own needs. Comparing to other Laravel based frameworks, it's a greate advantage. Unlike other, this platform can be upgraded to latest version of Laravel, whenever there is a new update.Click here for the [Demo](http://demo.laflux.com/admin/dashboard). Default Username : demo@laflux.com, Password : 123456.
 
 ### Prerequisites
 
@@ -14,6 +14,7 @@ PHP and Laravel Knowledge
 ### Installing
 
 1.) Download the zip and extract it to a directory or Clone the repository to a directory.
+
 2.)Create a databse and give the credentials to 
 
 3.) Run the following commands from the terminal in the root directory.
