@@ -15,7 +15,7 @@ PHP and Laravel Knowledge
 
 1.) Download the zip and extract it to a directory or Clone the repository to a directory.
 
-2.)Create a databse and give the credentials to 
+2.) Create a databse and give the credentials in the .env file existing in the root directory. 
 
 3.) Run the following commands from the terminal in the root directory.
 
