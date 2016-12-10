@@ -41,7 +41,6 @@ php artisan db:seed
 composer dumpautoload -o
 ```
 
-Video tutorial for installing Laflux platform: [Click here](https://www.youtube.com/watch?v=nf7X-mTjHTs)
 
 ## Deployment
 
