@@ -14,7 +14,6 @@ class DatabaseSeeder extends Seeder
          $this->call(UsersSeeder::class);
          $this->call(GroupsSeeder::class);
          $this->call(ExtensionManagerSeeder::class);
-         $this->call(ACLSeeder::class);
          $this->call(ExtensionsMSeeder::class);
     }
 }
