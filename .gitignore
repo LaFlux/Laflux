@@ -1,0 +1,13 @@
+/node_modules
+/public/storage
+/public/packages/extensionsvalley/banners/
+/public/packages/extensionsvalley/images/profile
+/public/packages/extensionsvalley/package_icons
+/public/packages/extensionsvalley/packages/
+/public/packages/extensionsvalley/tinymce_files/
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+

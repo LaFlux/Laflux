@@ -1,0 +1,9 @@
+.error_red {
+    color: #C9302C
+}
+.active_bg{
+    background-color: #dff0d8 !important;
+}
+.disable_bg{
+    background-color: #fcf8e3 !important;
+}

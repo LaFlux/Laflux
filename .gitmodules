@@ -1,0 +1,15 @@
+[submodule "packages/ExtensionsValley/Modulemanager"]
+	path = packages/ExtensionsValley/Modulemanager
+	url = https://github.com/LaFlux/Modulemanager.git
+[submodule "packages/ExtensionsValley/Menumanager"]
+	path = packages/ExtensionsValley/Menumanager
+	url = https://github.com/LaFlux/Menumanager.git
+[submodule "packages/ExtensionsValley/Banners"]
+	path = packages/ExtensionsValley/Banners
+	url = https://github.com/LaFlux/Banners.git
+[submodule "packages/ExtensionsValley/Basetheme"]
+	path = packages/ExtensionsValley/Basetheme
+	url = https://github.com/LaFlux/Basetheme.git
+[submodule "packages/ExtensionsValley/Pages"]
+	path = packages/ExtensionsValley/Pages
+	url = https://github.com/LaFlux/Pages.git
