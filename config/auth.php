@@ -74,7 +74,7 @@ return [
         ],
         'admin' => [
             'driver' => 'eloquent',
-            'model' => Macom\Dashboard\Models\User::class,
+            'model' => ExtensionsValley\Dashboard\Models\User::class,
         ],
         // 'users' => [
         //     'driver' => 'database',
