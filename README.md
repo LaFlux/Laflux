@@ -1,7 +1,7 @@
 # This Repo has potential security vulnerabilities in the dependencies
 So please use Latest version of this repository here.
 
-<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin **(Laravel 6.* LTS version)**</a>
+<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin ** (Laravel 6.* LTS version) **</a>
 
 # Laflux Platform
 
