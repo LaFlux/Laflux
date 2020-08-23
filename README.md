@@ -1,3 +1,7 @@
+#This Repo is Depreciated and Security risk found on the dependancies So please use Latest version of this repository here.
+
+<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin (Laravel 6.* LTS version)</a>
+
 # Laflux Platform
 
 Laflux is a Hybrid Platform built with Laravel 5.3.
