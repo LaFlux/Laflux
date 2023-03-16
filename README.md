@@ -1,6 +1,6 @@
-## This Repo is outdated So please use Latest version of this repository here.
+## New Version Available below.
 
-<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin ** (Laravel 6.* LTS version) **</a>
+<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin ** (Laravel 8.x version) **</a>
 
 # Laflux Platform
 
