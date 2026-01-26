@@ -1,6 +1,6 @@
 ## New Version Available below.
 
-<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin ** (Laravel 8.x version) **</a>
+<a href="https://github.com/walkswithme/laravel-admin">WWM Laravel Admin ** (Laravel 11.x version) **</a>
 
 # Laflux Platform
 
